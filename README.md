@@ -1,8 +1,8 @@
-\# 🚗 Bluetooth Joystick \& Voice Controlled Robot Car
+# 🚗 Bluetooth Joystick \& Voice Controlled Robot Car
 
 
 
-\## 📌 Overview
+## 📌 Overview
 
 
 
@@ -14,35 +14,35 @@ The system uses an Arduino Uno, HC-05 Bluetooth module, L298N motor driver, and 
 
 
 
-\---
+---
 
 
 
-\## ✨ Features
+## ✨ Features
 
 
 
-\* Bluetooth based wireless control
+* Bluetooth based wireless control
 
-\* Joystick navigation from Android app
+* Joystick navigation from Android app
 
-\* Voice command support
+* Voice command support
 
-\* Forward, Backward, Left, Right movement
+* Forward, Backward, Left, Right movement
 
-\* Diagonal movement support
+* Diagonal movement support
 
-\* Differential motor control using L298N
+* Differential motor control using L298N
 
-\* Simple and low-cost implementation
-
-
-
-\---
+* Simple and low-cost implementation
 
 
 
-\## 🛠 Components Used
+---
+
+
+
+## 🛠 Components Used
 
 
 
@@ -68,15 +68,15 @@ The system uses an Arduino Uno, HC-05 Bluetooth module, L298N motor driver, and 
 
 
 
-\---
+---
 
 
 
-\## 📱 Android Application
+## 📱 Android Application
 
 
 
-\[Application Link](https://play.google.com/store/apps/details?id=com.tabba.btcontrol)
+[Application Link](https://play.google.com/store/apps/details?id=com.tabba.btcontrol)
 
 
 
@@ -84,25 +84,25 @@ The application provides:
 
 
 
-\* Joystick Control
+* Joystick Control
 
-\* Directional Buttons
+* Directional Buttons
 
-\* Voice Command Support
+* Voice Command Support
 
-\* Bluetooth Pairing with HC-05
-
-
-
-\---
+* Bluetooth Pairing with HC-05
 
 
 
-\## 🔌 Pin Configuration
+---
 
 
 
-\### L298N Motor Driver ↔ Arduino Uno
+## 🔌 Pin Configuration
+
+
+
+### L298N Motor Driver ↔ Arduino Uno
 
 
 
@@ -124,7 +124,7 @@ The application provides:
 
 
 
-\### HC-05 Bluetooth Module ↔ Arduino Uno
+### HC-05 Bluetooth Module ↔ Arduino Uno
 
 
 
@@ -142,11 +142,11 @@ The application provides:
 
 
 
-\---
+---
 
 
 
-\## 🎮 Supported Commands
+## 🎮 Supported Commands
 
 
 
@@ -174,39 +174,39 @@ The application provides:
 
 
 
-\---
+---
 
 
 
-\## 📷 Hardware Image
+## 📷 Hardware Image
 
 
 
-!\[Hardware Model](images/model.jpg)
+![Hardware Model](images/model.jpg)
 
 
 
-\---
+---
 
 
 
-\## 🔌 Circuit Diagram
+## 🔌 Circuit Diagram
 
 
 
-!\[Circuit Diagram](circuit\_diagram/circuit\_diagram.png)
+![Circuit Diagram](circuit\_diagram/circuit\_diagram.png)
 
 
 
-\---
+---
 
 
 
-\## 👨‍💻 Author
+## 👨‍💻 Author
 
 
 
-\*\*Tushar Kanti Sahariah\*\*
+**Tushar Kanti Sahariah**
 
 
 
