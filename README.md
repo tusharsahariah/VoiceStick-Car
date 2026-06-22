@@ -194,7 +194,7 @@ The application provides:
 
 
 
-!\[Circuit](circuit\_diagram/circuit\_diagram.png)
+!\[Circuit Diagram](circuit\_diagram/circuit\_diagram.png)
 
 
 
@@ -202,9 +202,11 @@ The application provides:
 
 
 
-\## Author
+\## 👨‍💻 Author
 
 
 
-Tushar Kanti Sahariah
+\*\*Tushar Kanti Sahariah\*\*
+
+
 
