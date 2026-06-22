@@ -46,25 +46,16 @@ The system uses an Arduino Uno, HC-05 Bluetooth module, L298N motor driver, and 
 
 
 
-| Component              | Quantity    |
-
-| ---------------------- | ----------- |
-
-| Arduino Uno            | 1           |
-
-| HC-05 Bluetooth Module | 1           |
-
-| L298N Motor Driver     | 1           |
-
-| DC Gear Motors         | 4           |
-
-| Robot Chassis          | 1           |
-
-| Wheels                 | 4           |
-
-| 18650 Li-ion Batteries | 2           |
-
-| Jumper Wires           | As Required |
+| Component | Quantity |
+|-----------|----------|
+| Arduino Uno | 1 |
+| HC-05 Bluetooth Module | 1 |
+| L298N Motor Driver | 1 |
+| DC Gear Motors | 4 |
+| Robot Chassis | 1 |
+| Wheels | 4 |
+| 18650 Li-ion Batteries | 2 |
+| Jumper Wires | As Required |
 
 
 
@@ -106,39 +97,24 @@ The application provides:
 
 
 
-| Arduino Pin | L298N Pin | Function                        |
-
-| ----------- | --------- | ------------------------------- |
-
-| D3          | ENA       | Left Motor Speed Control (PWM)  |
-
-| D9          | ENB       | Right Motor Speed Control (PWM) |
-
-| D4          | IN1       | Right Motor Direction 1         |
-
-| D5          | IN2       | Right Motor Direction 2         |
-
-| D6          | IN3       | Left Motor Direction 1          |
-
-| D7          | IN4       | Left Motor Direction 2          |
-
+| Arduino Pin | L298N Pin | Function |
+|-------------|-----------|----------|
+| D3 | ENA | Left Motor Speed Control (PWM) |
+| D9 | ENB | Right Motor Speed Control (PWM) |
+| D4 | IN1 | Right Motor Direction 1 |
+| D5 | IN2 | Right Motor Direction 2 |
+| D6 | IN3 | Left Motor Direction 1 |
+| D7 | IN4 | Left Motor Direction 2 |
 
 
 ### HC-05 Bluetooth Module ↔ Arduino Uno
 
-
-
 | HC-05 Pin | Arduino Pin |
-
-| --------- | ----------- |
-
-| TX        | RX (D0)     |
-
-| RX        | TX (D1)     |
-
-| VCC       | 5V          |
-
-| GND       | GND         |
+|-----------|-------------|
+| TX | RX (D0) |
+| RX | TX (D1) |
+| VCC | 5V |
+| GND | GND |
 
 
 
@@ -149,28 +125,17 @@ The application provides:
 ## 🎮 Supported Commands
 
 
-
-| Command | Action         |
-
-| ------- | -------------- |
-
-| F       | Forward        |
-
-| B       | Backward       |
-
-| L       | Left           |
-
-| R       | Right          |
-
-| G       | Forward Left   |
-
-| I       | Forward Right  |
-
-| H       | Backward Left  |
-
-| J       | Backward Right |
-
-| S       | Stop           |
+| Command | Action |
+|---------|--------|
+| F | Forward |
+| B | Backward |
+| L | Left |
+| R | Right |
+| G | Forward Left |
+| I | Forward Right |
+| H | Backward Left |
+| J | Backward Right |
+| S | Stop |
 
 
 
